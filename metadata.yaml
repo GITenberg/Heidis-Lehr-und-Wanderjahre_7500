@@ -1,0 +1,78 @@
+_repo: Heidis-Lehr-und-Wanderjahre_7500
+creator:
+  author:
+    agent_name: Spyri, Johanna
+    aliases:
+    - Heusser, Johanna Louise
+    - Spyri, Johanna Heusser
+    birthdate: 1827
+    deathdate: 1901
+    gutenberg_agent_id: '2491'
+    url: http://www.gutenberg.org/2009/agents/2491
+    wikipedia: http://en.wikipedia.org/wiki/Johanna_Spyri
+description: "Heidi (pronounced [ˈhaɪdi]) is a work of children's fiction published\
+  \ in 1881 by Swiss author Johanna Spyri, originally published in two parts as Heidi's\
+  \ years of learning and travel (German: Heidis Lehr- und Wanderjahre) and Heidi\
+  \ makes use of what she has learned. (German: Heidi kann brauchen, was es gelernt\
+  \ hat) It is a novel about the events in the life of a young girl in her grandfather's\
+  \ care, in the Swiss Alps. It was written as a book \"for children and those who\
+  \ love children\" (as quoted from its subtitle).\nHeidi is one of the best-selling\
+  \ books ever written and is among the best-known works of Swiss literature.\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- DE Kinderbuch
+- Children's Literature
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7500'
+  wikidata: Q271697
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Switzerland -- History -- 19th century -- Fiction'
+- !lcc 'PZ'
+- !lcc 'PT'
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Grandfathers -- Fiction'
+- !lcsh 'Mountain life -- Switzerland -- Fiction'
+title: Heidis Lehr- und Wanderjahre
+url: http://www.gutenberg.org/ebooks/7500
+wikipedia:
+- https://eo.wikipedia.org/wiki/Heidi
+- https://pnb.wikipedia.org/wiki/%DB%81%D8%A7%D8%A6%DB%8C%DA%88%DB%8C
+- https://fa.wikipedia.org/wiki/%D9%87%D8%A7%DB%8C%D8%AF%DB%8C
+- https://als.wikipedia.org/wiki/Heidi_(Roman)
+- https://lt.wikipedia.org/wiki/Heida
+- https://ku.wikipedia.org/wiki/Heidi
+- https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%97%E3%82%B9%E3%81%AE%E5%B0%91%E5%A5%B3%E3%83%8F%E3%82%A4%E3%82%B8
+- https://pt.wikipedia.org/wiki/Heidi
+- https://sr.wikipedia.org/wiki/%D0%A5%D0%B0%D1%98%D0%B4%D0%B8_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://es.wikipedia.org/wiki/Heidi
+- https://en.wikipedia.org/wiki/Heidi
+- https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%B9%D0%B4%D0%B8_(%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D1%8C)
+- https://ro.wikipedia.org/wiki/Heidi,_feti%C8%9Ba_mun%C8%9Bilor
+- https://ko.wikipedia.org/wiki/%ED%95%98%EC%9D%B4%EB%94%94
+- https://fr.wikipedia.org/wiki/Heidi_(roman)
+- https://zh.wikipedia.org/wiki/%E6%B5%B7%E8%92%82_(%E5%B0%8F%E8%AF%B4)
+- https://no.wikipedia.org/wiki/Heidi_(bok)
+- https://pl.wikipedia.org/wiki/Heidi_(powie%C5%9B%C4%87)
+- https://simple.wikipedia.org/wiki/Heidi
+- https://th.wikipedia.org/wiki/%E0%B9%84%E0%B8%AE%E0%B8%94%E0%B8%B5%E0%B9%89_(%E0%B8%99%E0%B8%A7%E0%B8%99%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%A2)
+- https://sq.wikipedia.org/wiki/Haidi
+- https://mk.wikipedia.org/wiki/%D0%A5%D0%B0%D1%98%D0%B4%D0%B8_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://ar.wikipedia.org/wiki/%D9%87%D8%A7%D9%8A%D8%AF%D9%8A
+- https://nl.wikipedia.org/wiki/Heidi_(personage)
+- https://cs.wikipedia.org/wiki/Heidi,_d%C4%9Bv%C4%8D%C3%A1tko_z_hor
+- https://de.wikipedia.org/wiki/Heidi_(Roman)
+- https://eu.wikipedia.org/wiki/Heidi
+- https://cy.wikipedia.org/wiki/Heidi
+- https://bg.wikipedia.org/wiki/%D0%A5%D0%B0%D0%B9%D0%B4%D0%B8
+- https://it.wikipedia.org/wiki/Heidi
+- https://la.wikipedia.org/wiki/Adelhaidis_(fabula)
+- https://hr.wikipedia.org/wiki/Heidi
+- https://ca.wikipedia.org/wiki/Heidi
+- https://tr.wikipedia.org/wiki/Heidi
+- https://he.wikipedia.org/wiki/%D7%94%D7%99%D7%99%D7%93%D7%99_%D7%91%D7%AA_%D7%94%D7%94%D7%A8%D7%99%D7%9D
