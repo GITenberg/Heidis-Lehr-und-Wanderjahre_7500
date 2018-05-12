@@ -1,4 +1,8 @@
 _repo: Heidis-Lehr-und-Wanderjahre_7500
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Spyri, Johanna
@@ -19,6 +23,8 @@ description: "Heidi (pronounced [ˈhaɪdi]) is a work of children's fiction publ
   \ love children\" (as quoted from its subtitle).\nHeidi is one of the best-selling\
   \ books ever written and is among the best-known works of Swiss literature.\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7500#Heidis-Lehr-und-Wanderjahre
 gutenberg_bookshelf:
 - DE Kinderbuch
 - Children's Literature
